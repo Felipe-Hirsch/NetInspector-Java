@@ -13,7 +13,7 @@ s
 📊 Análise de Cabeçalhos: Uso da HttpClient API moderna para extrair metadados do servidor (Server, Content-Type, Date).
 
 🛠️ Tecnologias Utilizadas
-Linguagem: Java 17+ (ou a versão que você usou)
+Linguagem: Java 17+ 
 
 Bibliotecas Nativas: * java.net.* (Sockets e InetAddress)
 
